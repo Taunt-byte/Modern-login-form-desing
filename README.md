@@ -13,3 +13,7 @@ Estrutura HTML sem o CSS
 
 <img src="img/HTMLsemCSS.png">
 
+Estrutura HTML com o CSS
+
+<img src="img/HTMLcomCSS.png">
+
